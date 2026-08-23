@@ -32,7 +32,24 @@ SECRET_KEY = env('SECRET_KEY')
 DEBUG = env.bool('DEBUG', default=False)
 AI_SERVICE_URL = env('AI_SERVICE_URL', default='http://127.0.0.1:8001')
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'netdesk-ol9b.onrender.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+RENDER_EXTERNAL_HOSTNAME = os.environ.get('RENDER_EXTERNAL_HOSTNAME')
+if RENDER_EXTERNAL_HOSTNAME:
+    ALLOWED_HOSTS.append(RENDER_EXTERNAL_HOSTNAME)
+
+# Also allow the frontend URL to hit us
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:5173",
+]
+FRONTEND_URL = os.environ.get('FRONTEND_URL')
+if FRONTEND_URL:
+    CORS_ALLOWED_ORIGINS.append(FRONTEND_URL)
+
+CSRF_TRUSTED_ORIGINS = []
+if RENDER_EXTERNAL_HOSTNAME:
+    CSRF_TRUSTED_ORIGINS.append(f"https://{RENDER_EXTERNAL_HOSTNAME}")
+if FRONTEND_URL:
+    CSRF_TRUSTED_ORIGINS.append(FRONTEND_URL)
 
 
 # Application definition
@@ -74,15 +91,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",
-    "https://net-desk.vercel.app",
-]
 
-CSRF_TRUSTED_ORIGINS = [
-    "https://netdesk-ol9b.onrender.com",
-    "https://net-desk.vercel.app",
-]
 ROOT_URLCONF = 'core.urls'
 
 TEMPLATES = [
