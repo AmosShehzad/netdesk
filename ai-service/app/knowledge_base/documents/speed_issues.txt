@@ -1,0 +1,18 @@
+Title: Diagnosing Slow Internet Speed
+Category: SlowSpeed
+
+If your internet feels slow, follow these diagnostic steps before contacting support.
+
+Step 1: Run a speed test at speedtest.net or fast.com. Note your download speed, upload speed, and ping. Compare these to your subscribed plan speed.
+
+Step 2: If speeds are below 50% of your plan, disconnect all other devices from WiFi and test again. Other devices streaming video or downloading files consume bandwidth.
+
+Step 3: Test with an ethernet cable directly connected to the router. If wired speed is normal but WiFi is slow, the issue is WiFi interference, not your internet connection.
+
+Step 4: Check if the issue is time-dependent. Speeds dropping in the evening (7-11 PM) suggest network congestion in your area, which may require a plan upgrade or network optimization by our team.
+
+Step 5: Check your router's age. Routers older than 3-4 years may not support modern WiFi standards (WiFi 5/6) and can bottleneck your connection even if the line speed is fine.
+
+WiFi interference causes: Microwave ovens, baby monitors, Bluetooth devices, neighboring WiFi networks on the same channel, thick walls or floors between router and device.
+
+When to escalate: If wired speed is consistently below 50% of plan speed at multiple times of day, this indicates a line or network issue requiring technician investigation.

@@ -1,0 +1,22 @@
+Title: Billing and Payment FAQ
+Category: Billing
+
+Common billing questions and their answers.
+
+Q: Why is my bill higher than usual?
+A: Common reasons include: plan upgrade mid-cycle (prorated charges), late payment fee (applied after 15 days past due date), one-time installation or equipment charges, or taxes/regulatory fees adjustment. Check the bill breakdown in your customer portal under "My Bills."
+
+Q: How do I pay my bill?
+A: You can pay through the customer portal using credit/debit card, bank transfer, or JazzCash/EasyPaisa. Auto-pay can be enabled in account settings.
+
+Q: When is my bill due?
+A: Bills are generated on the 1st of each month and are due by the 15th. A grace period of 5 additional days is provided before late fees apply. Service may be suspended after 30 days of non-payment.
+
+Q: I paid but it still shows unpaid.
+A: Bank transfers can take 1-3 business days to reflect. If payment was made via portal, it should reflect within 24 hours. If the issue persists after 3 business days, contact support with your payment receipt or transaction ID.
+
+Q: How do I change my plan?
+A: Plan changes can be requested through the portal or by contacting support. Upgrades take effect immediately with prorated billing. Downgrades take effect at the start of the next billing cycle.
+
+Q: I want a refund for downtime.
+A: If you experienced a verified outage lasting more than 24 consecutive hours, you may be eligible for a prorated credit. Contact support with the dates of the outage and a credit will be applied to your next bill after verification.

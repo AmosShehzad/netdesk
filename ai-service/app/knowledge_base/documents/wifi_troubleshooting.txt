@@ -1,0 +1,27 @@
+Title: WiFi Connectivity Troubleshooting
+Category: SlowSpeed, NetworkOutage
+
+Fixing common WiFi problems when your internet line is actually working fine.
+
+Problem: Device won't connect to WiFi
+- Forget the network on your device and reconnect with the password.
+- Check if the router's WiFi light is on. If not, press the WiFi button on the router.
+- Check if your device is trying to connect to the 5GHz band — some older devices only support 2.4GHz.
+- Restart your device.
+
+Problem: WiFi keeps disconnecting
+- Move closer to the router. Thick walls, metal objects, and floors significantly weaken signal.
+- Switch from 5GHz to 2.4GHz band. 5GHz is faster but has shorter range.
+- Check if the router is overheating. Ensure it has ventilation and isn't stacked on other electronics.
+- Update your device's WiFi drivers (for laptops).
+
+Problem: WiFi is slow but wired connection is fast
+- This confirms the issue is WiFi, not your internet line.
+- Change the WiFi channel in router settings (192.168.1.1). Channels 1, 6, and 11 have least interference on 2.4GHz.
+- Consider a WiFi extender or mesh system for large homes.
+- Position the router centrally in your home, elevated, and away from walls.
+
+Problem: Some devices work but others don't
+- Check if the non-working device has a MAC address that might be blocked in router settings.
+- Check if the device's IP address conflicts with another device. Restart the router to reassign IPs.
+- Try connecting the problem device to a mobile hotspot to confirm the device's WiFi hardware works.

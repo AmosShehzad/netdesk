@@ -1,0 +1,24 @@
+Title: Network Outage Information
+Category: NetworkOutage
+
+How to identify and respond to network outages.
+
+Signs of a network outage vs a local issue:
+- If ONLY your connection is down and neighbors have internet, it's likely a local issue (router, cable, or account problem).
+- If multiple people in your area report no internet, it's likely a network outage.
+- If the router's "Internet/WAN" light is red or off, but "Power" and "LAN" lights are normal, it's likely an upstream issue.
+
+What to do during a confirmed outage:
+1. Check the NetDesk portal or app for outage notifications in your area.
+2. Do NOT repeatedly restart your router — this won't help during an outage and may cause configuration issues.
+3. If you need urgent internet access, consider using mobile hotspot as a temporary solution.
+4. Outages are typically resolved within 2-6 hours. Major infrastructure outages may take up to 24 hours.
+
+What our team does during an outage:
+- Network Operations Center (NOC) is automatically alerted when multiple customers in an area go offline.
+- Field teams are dispatched if the issue is physical infrastructure (cable cuts, equipment failure).
+- Software/configuration issues are resolved remotely by the NOC team.
+
+After an outage is resolved:
+- Your connection should restore automatically. If it doesn't within 30 minutes of the outage being marked resolved, restart your router once.
+- If service doesn't return after restart, contact support — your connection may need manual re-provisioning.

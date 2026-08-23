@@ -1,0 +1,16 @@
+Title: How to Reset Your Router
+Category: NetworkOutage, SlowSpeed
+
+If your internet connection has dropped or is extremely slow, a router reset is the first step to try.
+
+Step 1: Unplug the power cable from the back of your router. Do NOT press the reset button — that factory-resets the device and erases your settings.
+
+Step 2: Wait exactly 30 seconds. This allows the router's memory to fully clear and the ISP connection to properly drop.
+
+Step 3: Plug the power cable back in. Wait 2-3 minutes for all lights to stabilize. The "Internet" or "WAN" light should turn solid green.
+
+Step 4: Test your connection by opening a website on your phone or computer. If the issue persists, try connecting with an ethernet cable directly to rule out WiFi problems.
+
+If the router still shows a red or blinking "Internet" light after 5 minutes, this may indicate an outage in your area or a line fault. Contact support for further diagnosis.
+
+Common mistakes: Using the reset pinhole button (this factory-resets the router), not waiting long enough, restarting the computer instead of the router.

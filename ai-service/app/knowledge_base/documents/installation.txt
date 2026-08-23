@@ -1,0 +1,30 @@
+Title: New Connection Installation Guide
+Category: Installation
+
+Everything about getting a new internet connection installed.
+
+Installation timeline:
+- Urban areas: 2-3 business days after order confirmation.
+- Suburban areas: 3-5 business days.
+- Rural areas: 5-10 business days (may require additional infrastructure).
+
+What to expect on installation day:
+1. A technician will visit your premises at the scheduled time (a 2-hour window will be communicated).
+2. Someone over 18 must be present at the address to authorize the installation.
+3. The technician will install the fiber/cable entry point, set up the router, and test the connection.
+4. Installation typically takes 1-2 hours.
+
+Requirements for installation:
+- Valid government ID of the account holder.
+- Access to the building's cable entry point (for apartments, coordinate with building management).
+- A power outlet near the desired router location.
+- The first month's bill and installation fee must be paid before the visit.
+
+After installation:
+- Default WiFi name and password are on the sticker under your router.
+- Change the default password through the router admin panel (192.168.1.1) for security.
+- Download the NetDesk app to manage your account, pay bills, and contact support.
+
+Rescheduling or cancelling:
+- You can reschedule up to 24 hours before the appointment through the portal or by calling support.
+- If you're not present during the scheduled visit, a rescheduling fee may apply.
